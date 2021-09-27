@@ -1,70 +1,62 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    LA Supply Interchange
+</h1>
 
-## Available Scripts
 
-In the project directory, you can run:
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Description
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+From the original proposal: There are many independent artists in Los Angeles who have useful materials they want to get rid of. While there are online resources available to facilitate the donation and sale of these materials (Craigslist, OfferUp), there isn’t one designed specifically for the arts community.
 
-### `npm test`
+Supply Interchange LA is an app that allows for the exchange of used/leftover/discount art supplies and related materials and tools. Registered users will be able to post items to a simple UI by category with descriptions and basic contact information in order to connect with other users. While not an e-commerce app per se, the site will include a donation button to help fund this free service.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Note: This app is a work in progress (not fully functional) created initially as a group project for UCLA's Coding Bootcamp in 2021. The contributors to the project: Albert Fonseca, Jun Hwang, Joe Merrell, and Timo Nlemvo.
 
-### `npm run build`
+The original repo for the project: https://github.com/AlbertRyanFonseca/project-3-mern
+Link to the deployed app: https://supply-interchange.herokuapp.com/
+Link to the current repo: https://github.com/JoeMerrell/la-supply-interchange-2
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contents 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* [Installation](#installation)
 
-### `npm run eject`
+* [Usage](#usage)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* [License](#license)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* [Contributing](#contributing)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* [Tests](#tests)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* [Questions](#questions)
 
-## Learn More
+## Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+N/A
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Usage
 
-### Analyzing the Bundle Size
+Once completed, the app will allow for registered users to create posts. Registration will not be required to view posts.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## License
 
-### Making a Progressive Web App
+This project's license is: MIT
+  
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+N/A
 
-### Advanced Configuration
+## Tests
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+N/A
 
-### Deployment
+## Questions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+If you have any questions about the repo, open an issue or contact Joe Merrell (me) directly at joe@uhhuhohyeah.com. You can find more of my work at my github account: https://github.com/JoeMerrell
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
