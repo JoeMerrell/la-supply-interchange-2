@@ -6,14 +6,6 @@ const mongoose = require("mongoose");
 const { ApolloServer } = require('apollo-server-express');
 const { authMiddleware } = require('./utils/auth');
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/pizza-hunt', {
-  useFindAndModify: false,
-  useNewUrlParser: true,
-  useUnifiedTopology: true
-});
-
-
-
 
 // import typeDefs and resolvers
 const { typeDefs, resolvers } = require("./schemas");
