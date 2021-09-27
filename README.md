@@ -16,8 +16,13 @@ Supply Interchange LA is an app that allows for the exchange of used/leftover/di
 Note: This app is a work in progress (not fully functional) created initially as a group project for UCLA's Coding Bootcamp in 2021. The contributors to the project: Albert Fonseca, Jun Hwang, Joe Merrell, and Timo Nlemvo.
 
 The original repo for the project: https://github.com/AlbertRyanFonseca/project-3-mern
+
 Link to the deployed app: https://supply-interchange.herokuapp.com/
+
 Link to the current repo: https://github.com/JoeMerrell/la-supply-interchange-2
+
+Link to walkthrough of server functions: https://youtu.be/HApXV-pynEE
+
 
 
 ## Contents 
