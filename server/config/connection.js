@@ -6,7 +6,7 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/Supplyinterchan
     useUnifiedTopology: true, 
    useCreateIndex: true, 
    useFindAndModify: false 
-// added error bounce back
+
 
 
 });
